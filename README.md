@@ -8,8 +8,5 @@ Each help desk station has an option to reset the queuing number based on an inp
 
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
 
-In your solution you must provide the following in your Github link account:
+<img width="656" height="640" alt="uml singleton" src="https://github.com/user-attachments/assets/2dd53fd0-807c-4098-83fc-27704c363877" />
 
-      Problem statement (description of the problem. Just copy what is stated here).
-      UML Class Diagram
-      Uploaded java codes for the solution.
