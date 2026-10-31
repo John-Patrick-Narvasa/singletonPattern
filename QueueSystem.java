@@ -16,7 +16,6 @@ public class QueueSystem {
         return instance;
     }
     
-
     public synchronized int getCurrentQueueNo() {
         if (currentQueueNo < lastIssuedQueueNo) {
             currentQueueNo++;
